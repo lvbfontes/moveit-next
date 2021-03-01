@@ -17,6 +17,6 @@
     align-content: center;
 }
 
-.container section > div:first-child {
+.container section > div {
     padding-right: 2rem;
 }
