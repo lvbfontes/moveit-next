@@ -17,6 +17,7 @@
     align-content: center;
 }
 
-.container section > div {
+
+.divProfile {
     padding-right: 2rem;
 }
